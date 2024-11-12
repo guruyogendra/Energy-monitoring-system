@@ -3,7 +3,7 @@
 This project is an IoT-based energy monitoring system designed to provide real-time monitoring of electricity consumption.
 
 <p align="center">
-  <img src="output_for_electronic_management_system. jpg" alt="Energy Monitoring System Overview" width="500"/>
+  <img src="output for electronic management system. jpg" alt="Energy Monitoring System Overview" width="500"/>
 </p>
 
 ## Project Overview
